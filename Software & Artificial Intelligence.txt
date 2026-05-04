@@ -1,0 +1,44 @@
+Algorithm = Algoritma
+Data Set = veri Seti
+Neural Network = Sinir Agi
+Deploy = Yayina almak
+Open Source = Acik Kaynak
+Inference = Cikarim
+Requires = gerekli
+Logic = Mantik (Programming requires logic)
+To Solve = Cozmek (I love to solve complex problems)
+Calculation = Hesaplama (AI models do millions of calculations) ai modelleri milyonlarca hesaplama yapar
+Encryption Algorithm = Sifreleme Algoritmasi (Mathematics is used in ecryption algorithms)
+dimension = boyut (NumPy library contains multidimensional arrays)
+multidimensional = cok boyutlu
+contains = icerir
+
+Entrance Exam = Giris Sinavi
+Intership = Staj
+Major = Uzmanlik Alani / Ana Dal
+Freshman = Birinci Sinif Ogrencisi
+Soft Skills = Sosyal Beceriler
+Self-taught = Alayli / Kendi Kendine Ogrenmis
+To Focus on = Odaklanmak (I want to focus on machine learning)
+Advanced = Ileri duzey (I need to advanced mathematics)
+Fundamental = Temel/Esas (Mathematics is fundamental for AI)
+
+Equation = Denklem / Esitlik (2x + 5 = 10)
+Variable = Degisken (The "x" in the equation)
+Derivative = Turev (Essential for AI training (Backpropagation))
+Probability = Olasilik ( P(A), very important for AI models)
+Matrix = Matris (Grids of numbers in Deep Learning)
+Linear = Dogrusal (Straight line relationship)
+
+Integrated Practice (Birlestirme Pratigi)
+- I want to study Artificial Intelligence (AI) as my Major at university, learn Mathematics to understand how models work.
+
+Combining Everything (Hepsini Birlestiriyoruz)
+- Universitede yapay zekaya odaklanmak istiyorum cunku matematik yapay zeka icin temeldir
+
+= I want to focus on Artificial Intelligence at university because mathematics is fundamental for AI
+
+Senior Challenge (Kidemli Mucadelesi)
+- Siber guvenlikte karmasik problemleri cozmek icin matematiksel mantigi kullaniyorum
+
+= I use mathematics logic to solve complex problems in cyber security

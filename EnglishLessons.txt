@@ -1,0 +1,42 @@
+Handle = Yonetmek
+Automate = Otomatiklestirmek
+Improve = Iyilestirme
+Simplify = Basitlestirme
+Complexity = Karmasiklik (sistemin veya kodun zorluk derecesi)
+Workflow = is akisi
+Seamlessly = Sorunsuzca / Puruzsuz sekilde
+Efficiently = Verimli bir sekilde
+To save = Tasarruf etmek / Saklamak
+To Reduce = Azaltmak
+To Optimize = Optimize etmek / Iyilestirmek
+Senior = Kidemli
+Action words = Eylem kelimeleri
+To Implement = uygulamak / devreye almak
+Implement a new feature = Yeni bir ozellik uygulamak
+To Debug = Hata ayıklamak
+I am debugging my library = Kutuphanemdeki hatalari ayikliyorum
+To Maintain = Sürdürmek / Bakim yapmak
+Maintain the codebase = Kod tabaninin bakimini yapmak
+To Clean up = Temizlemek
+To Update = Güncellemek
+To Secure = Guvenli hale getirmek
+
+My library will handle the complex workflow seamlessly
+Kutuphanem karmasik is akisini sorunsuzca yönetecek
+
+I want to handle the process efficiently
+Sureci verimli bir sekilde yönetmek istiyorum
+
+Building a Longer Sentence = Daha uzun bir cümle kuralim
+
+Sureci verimli bir sekilde yönetmek ve zaman kazanmak istiyorum
+I want to handle the process efficiently and save time
+
+Let's Talk About Now = Hadi suan hakkında konusalim
+
+- I am maintaining my codebase (Kod tabanimin bakimini yapıyorum)
+= What happens in a codebase (Kod tabaninda neler olur)
+- I must secure my library (Kutuphanemi güvenli yapmam gerek)
+= Okay do it
+- I secured my library for cyber security
+= I am designing the most efficient and scalable architecture for my library 
